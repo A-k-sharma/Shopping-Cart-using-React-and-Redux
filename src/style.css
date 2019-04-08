@@ -1,0 +1,33 @@
+*{
+    text-align: center;
+}
+.main{
+    display: flex;
+}
+
+.nav-bar-heading{
+    background-color: darkgoldenrod;
+    height: 90px;
+    padding: 20px;
+}
+.card{
+    width: 300px;
+}
+.card .card-image .card-title{
+    color: black;
+    font-weight: 400
+}
+.cart{
+    margin-top:40px;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap
+}
+ul.collection{
+    padding: 0;
+}
+.row{
+    padding: 0;
+}
